@@ -1,0 +1,6 @@
+*.h linguist-detectable=false
+*.m linguist-detectable=false
+*.cpp linguist-detectable=false
+*.html linguist-detectable=false
+*.swift linguist-detectable=false
+*.kt linguist-detectable=false
