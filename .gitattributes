@@ -4,3 +4,4 @@
 *.html linguist-detectable=false
 *.swift linguist-detectable=false
 *.kt linguist-detectable=false
+*.cmake linguist-detectable=false
